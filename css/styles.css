@@ -1436,12 +1436,3 @@ a:hover {
 	width: 160px;
 	height: auto;
 }
-
-#explore-background{
-	position: absolute;
-	right: 0;
-	bottom: 0;
-	width: 100%;
-	height: auto;
-	z-index: -100; 
-}
